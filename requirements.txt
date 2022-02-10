@@ -1,0 +1,10 @@
+following commands need to be run in terminal:
+  pip install selenium
+  pip install beautifulsoup4
+  pip install pandas
+  pip install requests
+  pip install openpyxl
+  
+code also requires web driver, which is set up right under the import statements
+
+in order to access u-haul website, one must use vpn with location in the US - any (free) vpn will do
