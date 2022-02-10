@@ -1,5 +1,7 @@
 # webscraper
 
+uhaul_webscraper is main file
+
 Requirements are listed in requirements.txt file
 
 all_states.xlsx file contains list of all major cities in all of the US, and the scraper goes through that list while searching
