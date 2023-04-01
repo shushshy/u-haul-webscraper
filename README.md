@@ -5,8 +5,11 @@ Webscrapers are used for collecting the data from a website. This web scraper co
 ## About the files
 
 Script names start with S01,S02 and S03, to indicate the order of the scripts.
+
 -S01_extract_facility_links.py searches for the facilities in the US cities, collects the links to individual facilities, and saves them to a file.
+
 -S02_download_pages_from_links.py goes through the collected links saved in a file, and downloads each page.
+
 -S03_extract_data_from_downloaded_pages goes through the downloaded pages, extracts useful data and saves it to a csv file.
 
 -all_states.xlsx file contains list of all major cities in the US, and the scraper goes through that list while searching
